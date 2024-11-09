@@ -1,0 +1,8 @@
+export { Logo } from './Logo'
+export { About } from './About'
+export { External } from './External'
+export { GitHub } from './GitHub'
+export { Info } from './Info'
+export { LinkedIn } from './LinkedIn'
+export { Menu } from './Menu'
+export { Close } from './Close'
